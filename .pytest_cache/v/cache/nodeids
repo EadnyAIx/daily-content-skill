@@ -1,9 +1,0 @@
-[
-  "tests/test_content.py::test_rewrite",
-  "tests/test_content.py::test_rewrite_empty",
-  "tests/test_content.py::test_rewrite_invalid_style",
-  "tests/test_content.py::test_summarize_parse",
-  "tests/test_content.py::test_title_gen",
-  "tests/test_content.py::test_tone_convert",
-  "tests/test_content.py::test_translate"
-]
